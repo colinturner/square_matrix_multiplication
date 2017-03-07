@@ -1,1 +1,3 @@
-This project aims to multiply two square matrices together
+#Square Matrix Multiplication
+
+##This project multiplies two square matrices together.
